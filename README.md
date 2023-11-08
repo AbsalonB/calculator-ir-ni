@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Aplicación Cálculo de impuesto
+## Tools
+* Boostrap 5.3.2.
+* React 18.0.2.
+## Solutions base on
+* Gisella Canales Consultora en educación financiera.
+* [Link blog](https://www.delepesoasuspesos.com/compras-presupuesto/1077-como-calcular-el-ir) in this blog she explains what  the formulas are to perform the calculations.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+## To run the project:
 
 ### `npm start`
 
